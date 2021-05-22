@@ -1,0 +1,13 @@
+E:\PagamentoFuncionario\PagamentoFuncionario\bin\Debug\netcoreapp3.1\PagamentoFuncionario.exe
+E:\PagamentoFuncionario\PagamentoFuncionario\bin\Debug\netcoreapp3.1\PagamentoFuncionario.deps.json
+E:\PagamentoFuncionario\PagamentoFuncionario\bin\Debug\netcoreapp3.1\PagamentoFuncionario.runtimeconfig.json
+E:\PagamentoFuncionario\PagamentoFuncionario\bin\Debug\netcoreapp3.1\PagamentoFuncionario.runtimeconfig.dev.json
+E:\PagamentoFuncionario\PagamentoFuncionario\bin\Debug\netcoreapp3.1\PagamentoFuncionario.dll
+E:\PagamentoFuncionario\PagamentoFuncionario\bin\Debug\netcoreapp3.1\PagamentoFuncionario.pdb
+E:\PagamentoFuncionario\PagamentoFuncionario\obj\Debug\netcoreapp3.1\PagamentoFuncionario.csprojAssemblyReference.cache
+E:\PagamentoFuncionario\PagamentoFuncionario\obj\Debug\netcoreapp3.1\PagamentoFuncionario.AssemblyInfoInputs.cache
+E:\PagamentoFuncionario\PagamentoFuncionario\obj\Debug\netcoreapp3.1\PagamentoFuncionario.AssemblyInfo.cs
+E:\PagamentoFuncionario\PagamentoFuncionario\obj\Debug\netcoreapp3.1\PagamentoFuncionario.csproj.CoreCompileInputs.cache
+E:\PagamentoFuncionario\PagamentoFuncionario\obj\Debug\netcoreapp3.1\PagamentoFuncionario.dll
+E:\PagamentoFuncionario\PagamentoFuncionario\obj\Debug\netcoreapp3.1\PagamentoFuncionario.pdb
+E:\PagamentoFuncionario\PagamentoFuncionario\obj\Debug\netcoreapp3.1\PagamentoFuncionario.genruntimeconfig.cache
